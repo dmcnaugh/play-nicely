@@ -1,6 +1,10 @@
 {
   "name": "play-nicely",
   "version": "0.0.1",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/dmcnaugh/play-nicely.git"
+  },
   "description": "My kind of dependency-injection, inspired by AngularJS",
   "main": "index.js",
   "scripts": {
