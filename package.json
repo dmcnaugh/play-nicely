@@ -1,0 +1,17 @@
+{
+  "name": "play-nicely",
+  "version": "0.0.1",
+  "description": "My kind of dependency-injection, inspired by AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "di"
+  ],
+  "author": "Dave McNaughton",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "~0.7.2"
+  }
+}
