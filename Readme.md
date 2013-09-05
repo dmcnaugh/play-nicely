@@ -27,12 +27,12 @@ $ npm install play-nicely
 
 ## Usage
 
-```
+``` javascript
 var di = require('play-nicely')();
 ```
 
 Say something about the options object...
-```
+``` javascript
 var di = require('play-nicely')({global: false, strict: true});
 ```
 ## License
