@@ -1,6 +1,6 @@
 {
   "name": "play-nicely",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
       "type": "git",
       "url": "git://github.com/dmcnaugh/play-nicely.git"
@@ -11,7 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "di"
+    "di",
+    "dependency injection"
   ],
   "author": "Dave McNaughton",
   "license": "MIT",
